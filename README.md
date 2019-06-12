@@ -2,4 +2,7 @@
 
 ![miZy - images](pics/mizy_images.gif)
 
-mizy firmware images collection
+download mizy firmware collection from there
+
++ https://github.com/hyphop/miZy-images-collection/releases
+
